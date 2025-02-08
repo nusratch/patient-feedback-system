@@ -151,7 +151,7 @@ const Login = () => {
         <div
           className="w-full text-gray-700"
         >
-          <Link href="/auth/register" className="hover:underline"> <u>Dont't Have Account? </u></Link>
+          <Link href="/auth/register" className="hover:underline"> <u>Dont&apos;t Have Account? </u></Link>
         </div>
       </div >
     </div >
